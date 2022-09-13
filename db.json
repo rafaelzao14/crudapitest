@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "Rafaelzao",
+      "email": "rafael@email.com",
+      "password": 123456,
+      "debts": [{ "Devendo": "4 Litrão" }]
+    }
+  ]
+}
