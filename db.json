@@ -2,7 +2,7 @@
   "users": [
   {
     "email": "user@email.com",
-    "password": "$2a$10$vFc9jPa2z0Da6afNK2tW1uRgbcvM7yWKuyxItfRBChRKaVJNA03yO",
+    "password": 123456,
     "name": "Usuário Teste",
     "debt": [
         {
