@@ -1,4 +1,32 @@
 {
   "users": [
+    {
+    "email": "user@email.com",
+    "password": "$2a$10$nmrvWjYdV70K60j7kGd8TurB3vXWjNL86Z/a.p1NEQCq/n/cIUdFe",
+    "name": "Usuário Teste",
+    "debt": [
+        {
+            "id": 2,
+            "userId": 2,
+            "description": "Quebrou uma caneca",
+            "paymentId": 2,
+            "reason": {
+                "id": 1,
+                "quantity": "3 Beras"
+            }
+        },
+        {
+            "id": 3,
+            "userId": 2,
+            "description": "Esqueceu a Janela Aberta",
+            "paymentId": 2,
+            "reason": {
+                "id": 1,
+                "quantity": "2 Beras"
+            }
+        }
+    ],
+    "id": 1
+}
   ]
 }
