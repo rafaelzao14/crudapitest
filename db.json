@@ -10,20 +10,20 @@
           "userId": 2,
           "description": "Quebrou uma caneca",
           "paymentId": 2,
-          "reason": {
+          "reason": [{
             "id": 1,
             "quantity": "3 Beras"
-          }
+          }]
         },
         {
           "id": 3,
           "userId": 2,
           "description": "Esqueceu a Janela Aberta",
           "paymentId": 2,
-          "reason": {
+          "reason": [{
             "id": 1,
             "quantity": "2 Beras"
-          }
+          }]
         }
       ],
       "id": 1
@@ -40,20 +40,20 @@
           "userId": 1,
           "description": "Quebrou uma caneca",
           "paymentId": 2,
-          "reason": {
+          "reason": [{
             "id": 1,
             "quantity": "3 Beras"
-          }
+          }]
         },
         {
           "id": 3,
           "userId": 1,
           "description": "Esqueceu a Janela Aberta",
           "paymentId": 2,
-          "reason": {
+          "reason": [{
             "id": 2,
             "quantity": "2 Beras"
-          }
+          }]
         }
       ],
       "id": 1
@@ -68,20 +68,20 @@
           "userId": 2,
           "description": "Quebrou uma caneca",
           "paymentId": 2,
-          "reason": {
+          "reason": [{
             "id": 3,
             "quantity": "3 Beras"
-          }
+          }]
         },
         {
           "id": 3,
           "userId": 2,
           "description": "Esqueceu a Janela Aberta",
           "paymentId": 2,
-          "reason": {
+          "reason": [{
             "id": 4,
             "quantity": "2 Beras"
-          }
+          }]
         }
       ],
       "id": 2
@@ -96,20 +96,20 @@
           "userId": 3,
           "description": "Quebrou uma caneca",
           "paymentId": 2,
-          "reason": {
+          "reason": [{
             "id": 5,
             "quantity": "3 Beras"
-          }
+          }]
         },
         {
           "id": 3,
           "userId": 3,
           "description": "Esqueceu a Janela Aberta",
           "paymentId": 2,
-          "reason": {
+          "reason": [{
             "id": 6,
             "quantity": "2 Beras"
-          }
+          }]
         }
       ],
       "id": 3
